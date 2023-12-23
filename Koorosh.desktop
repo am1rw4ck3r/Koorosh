@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Koorosh
+Comment=A hacking script tool
+Exec=koorosh
+Icon=/opt/icon/koorosh.jpg
+Path=/opt/koorosh/
+Terminal=true
+Type=Application
+Categories=Utility;Application;
