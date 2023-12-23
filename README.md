@@ -62,5 +62,5 @@ if you want to use Koorosh-Crackers you must run it from koorosh-crackers folder
 ```
 
 ### Support
-Developer Email: AmirZare@protonmail.com  
+Developer Email: am1rw4ck3r [@] gmail.com  
 Be free with free sofwares.  
