@@ -1,8 +1,7 @@
 # Koorosh
 ![](image/bg.jpg)
 
-![License](https://img.shields.io/aur/license/yaourt.svg)
-
+Written in 2018
 ## 1. Introduction
 
 Koorosh is a hacking tool script that wrote in python programming language.  
